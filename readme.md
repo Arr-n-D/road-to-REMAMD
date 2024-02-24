@@ -1,6 +1,6 @@
 # Reverse engineering, malware analysis, malware development
 
-This hosts the source code and dependencies for the subjects we learned on my [blog](https://www.arr-n-d.dev)
+This hosts the source code and dependencies for the subjects we learn on my [blog](https://www.arr-n-d.dev)
 
 
 # Disclaimer
